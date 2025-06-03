@@ -2,6 +2,8 @@
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
         "c:\\Program Files\\processing\\core\\library\\core.jar",
-        "c:\\Program Files\\processing\\modes\\java\\libraries\\sound\\library\\sound.jar"
+        "c:\\Program Files\\processing\\modes\\java\\libraries\\sound\\library\\sound.jar",
+        "c:\\Program Files\\Processing\\app\\core-4.4.4-a6a7b5a33071ea7547116b33ab770f2.jar",
+        "c:\\Program Files\\Processing\\app\\core-common-2.2.0-2212d240dfe1e8a7598ee117ccc316d.jar"
     ]
 }
